@@ -1,6 +1,10 @@
 ## Hi, I am Nikolay Yakimov! 
 </br>
 
+<div>
+  <a href="https://github.com/eagrundy">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intMaxValue&layout=compact&langs_count=16&theme=dracula"/>
+  
 ## Contact 
 <div> 
   <a href = "mailto: nymnac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
