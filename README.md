@@ -2,7 +2,7 @@
 
 ![Alt Text](https://github.com/intMaxValue/intMaxValue/assets/106592252/72182041-0afb-4d87-be13-e9af3bfc1741)
 <br>
-<img src="https://github.com/intMaxValue/intMaxValue/assets/106592252/72182041-0afb-4d87-be13-e9af3bfc1741" width="40" height="40" />
+<img src="https://github.com/intMaxValue/intMaxValue/assets/106592252/72182041-0afb-4d87-be13-e9af3bfc1741" width="100%" height="100%" align="center"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intmaxvalue&label=Profile%20views&color=0e75b6&style=flat" alt="intmaxvalue" /> </p>
 
