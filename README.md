@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+![Alt Text](https://github.com/intMaxValue/intMaxValue/assets/106592252/72182041-0afb-4d87-be13-e9af3bfc1741)
+<br>
+<img src="https://github.com/intMaxValue/intMaxValue/assets/106592252/72182041-0afb-4d87-be13-e9af3bfc1741" width="40" height="40" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intmaxvalue&label=Profile%20views&color=0e75b6&style=flat" alt="intmaxvalue" /> </p>
 
